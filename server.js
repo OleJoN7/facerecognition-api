@@ -12,7 +12,7 @@ const appClarifai = new Clarifai.App({
 const db = knex({
     client: 'pg',
     connection: {
-      host : '127.0.0.1',
+      host : 'postgresql-rigid-53373',
       user : 'oleg',
       password : 'oleg',
       database : 'face-recognition'
