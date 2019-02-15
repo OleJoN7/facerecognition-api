@@ -1,4 +1,4 @@
-# facerecognition-api
+# Facerecognition-api
 Just deploy this file in independept repository.
  
 # This is server RESTful Api for face-recognition application 
